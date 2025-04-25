@@ -8,13 +8,14 @@ We study the feasibility of approximation using data generated with the existing
 
 
 ## Cite
-
-@inproceedings{
-anaqreh2024towards,
-title={Towards Automated and Interpretable Pathloss Approximation  Methods},
-author={Ahmad Anaqreh and Shih-Kai Chou and Irina Bara{\v{s}}in and Carolina Fortuna},
-booktitle={Submitted to AAAI 2025 Workshop on Artificial Intelligence for Wireless Communications and Networking (AI4WCN)},
-year={2024},
-url={https://openreview.net/forum?id=M1WT5NZ4bj},
-note={under review}
-}
+If you use this code in your research, citation of the following paper would be greatly appreciated:
+```
+    @inproceedings{
+        anaqreh2024towards,
+        title={Towards Automated and Interpretable Pathloss Approximation  Methods},
+        author={Ahmad Anaqreh and Shih-Kai Chou and Irina Bara{\v{s}}in and Carolina Fortuna},
+        booktitle={Submitted to AAAI 2025 Workshop on Artificial Intelligence for Wireless Communications and Networking (AI4WCN)},
+        year={2024},
+        url={https://openreview.net/forum?id=M1WT5NZ4bj}
+    }
+```
