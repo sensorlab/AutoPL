@@ -22,11 +22,11 @@ If you use this code in your research, citation of the following paper would be 
         year={2024},
         url={https://openreview.net/forum?id=M1WT5NZ4bj}
     }
-
     @article{anaqreh2025automated,
-        title={Automated Modeling Method for Pathloss Model Discovery},
-        author={Anaqreh, Ahmad and Chou, Shih-Kai and Mohor{\v{c}}i{\v{c}}, Mihael and Lagkas, Thomas and Fortuna, Carolina},
-        journal={arXiv preprint arXiv:2505.23383},
-        year={2025}
+      title={Automated Modeling Method for Pathloss Model Discovery},
+      author={Anaqreh, Ahmad and Chou, Shih-Kai and Mohor{\v{c}}i{\v{c}}, Mihael and Fortuna, Carolina},
+      journal={arXiv preprint arXiv:2505.23383},
+      year={2025}
+      url={https://arxiv.org/pdf/2505.23383?}
     }
 ```
